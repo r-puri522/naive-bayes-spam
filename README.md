@@ -2,7 +2,7 @@
 # Naive Bayes Spam Detection (From Scratch)
 
 **View / Run in Google Colab:**  
-[https://colab.research.google.com/drive/1POH-EnuZkRKqLOi1CksWwehKV2sAM6tG#scrollTo=x3OFl47z_5bf]
+[https://colab.research.google.com/drive/1POH-EnuZkRKqLOi1CksWwehKV2sAM6tG?usp=sharing]
 
 A spam classification project that implements a **Naive Bayes classifier from scratch** to distinguish between `spam` and `ham` SMS messages.  
 The model is trained on labeled text data, evaluated on a held-out test set, and analyzed using a **confusion matrix** and standard classification metrics.
