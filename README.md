@@ -1,4 +1,3 @@
-# naive-bayes-spam
 
 # Naive Bayes Spam Detection (From Scratch)
 
